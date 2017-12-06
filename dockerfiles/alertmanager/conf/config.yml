@@ -5,6 +5,6 @@ receivers:
     - name: 'slack'
       slack_configs:
           - send_resolved: true
-            username: 'YOUR USERNAME'
-            channel: '#YOURCHANNEL'
-            api_url: 'INCOMMING WEBHOOK'
+            username: 'fernando.franceschi@sumus.com.br'
+            channel: '#monitoring'
+            api_url: 'https://hooks.slack.com/services/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'
